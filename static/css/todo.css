@@ -1,0 +1,70 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(54, 10, 59);
+  color: white;
+}
+
+body {
+  padding: 50px;
+  margin: 20px;
+}
+h1 {
+  text-align: center;
+  padding: 20px;
+}
+.container {
+  padding: 20px;
+  margin: 20px;
+}
+.input-form label {
+  padding: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.input-form input {
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+  border: 2px solid rgb(150, 146, 146);
+  border-radius: 5px;
+  min-width: 100ch;
+}
+
+.input-form button {
+  padding: 10px 15px 10px 15px;
+  margin: 10px 0px 10px 0px;
+  background-color: royalblue;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.todo_item {
+  border: 2px solid gray;
+  border-radius: 5px;
+  padding: 30px;
+  margin: 10px 0px 10px 0px;
+  /* min-width: 50ch; */
+}
+
+.update_btn {
+  padding: 10px 15px 10px 15px;
+  margin: 10px 0px 10px 0px;
+  background-color: royalblue;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.delete_btn {
+  padding: 10px 15px 10px 15px;
+  margin: 10px 0px 10px 0px;
+  background-color: rgb(252, 6, 6);
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+}
